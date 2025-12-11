@@ -1,5 +1,11 @@
 # 🏠 Smart Home Automation Using ESP8266
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Platform: ESP8266](https://img.shields.io/badge/Platform-ESP8266-blue)
+![Language: C++](https://img.shields.io/badge/Language-C++-orange)
+![IoT Project](https://img.shields.io/badge/Category-IoT-green)
+![Web Server](https://img.shields.io/badge/Module-Web%20Server-purple)
+
 Wi-Fi Based Relay Control System with Web Dashboard
 
 ---
@@ -141,10 +147,4 @@ This project demonstrates skills in:
 * Real-world problem solving
 * Team collaboration
 
-# 🏠 Smart Home Automation Using ESP8266
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Platform: ESP8266](https://img.shields.io/badge/Platform-ESP8266-blue)
-![Language: C++](https://img.shields.io/badge/Language-C++-orange)
-![IoT Project](https://img.shields.io/badge/Category-IoT-green)
-![Web Server](https://img.shields.io/badge/Module-Web%20Server-purple)
