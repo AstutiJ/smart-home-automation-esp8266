@@ -1,0 +1,20 @@
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore compiled / build files
+*.o
+*.bin
+*.elf
+
+# Ignore compressed files
+*.zip
+*.rar
+
+# Ignore personal configs
+*.code-workspace
+.vscode/
